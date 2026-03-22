@@ -1,2 +1,0 @@
-# biolink-instagold
-biolink
